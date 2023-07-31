@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AmarendraHota/Expense-Tracker/static/css/main.828a1bdd.css",
+    "main.js": "/AmarendraHota/Expense-Tracker/static/js/main.3519eddb.js",
+    "static/js/787.e7509647.chunk.js": "/AmarendraHota/Expense-Tracker/static/js/787.e7509647.chunk.js",
+    "index.html": "/AmarendraHota/Expense-Tracker/index.html",
+    "main.828a1bdd.css.map": "/AmarendraHota/Expense-Tracker/static/css/main.828a1bdd.css.map",
+    "main.3519eddb.js.map": "/AmarendraHota/Expense-Tracker/static/js/main.3519eddb.js.map",
+    "787.e7509647.chunk.js.map": "/AmarendraHota/Expense-Tracker/static/js/787.e7509647.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828a1bdd.css",
+    "static/js/main.3519eddb.js"
+  ]
+}
